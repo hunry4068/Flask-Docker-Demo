@@ -3,7 +3,7 @@ FROM python:3.10.5-slim
 
 # adds metadata to an image
 LABEL MAINTAINER="Eric Huang"
-LABEL GitHub="https://github.com/"
+LABEL GitHub="https://github.com/hunry4068/Flask-Docker-Demo"
 LABEL version="0.2"
 LABEL description="A Docker container to serve a simple Python Flask APP"
 
